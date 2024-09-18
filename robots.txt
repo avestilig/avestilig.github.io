@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://avestilig.github.io/sitemap.html.gz
+Sitemap: https://avestilig.github.io/app/sitemap.html.gz
+Sitemap: https://avestilig.github.io/assets/sitemap.html.gz
+Sitemap: https://avestilig.github.io/css/sitemap.html.gz
+Sitemap: https://avestilig.github.io/includes/sitemap.html.gz
+Sitemap: https://avestilig.github.io/item/sitemap.html.gz
+Sitemap: https://avestilig.github.io/src/sitemap.html.gz
